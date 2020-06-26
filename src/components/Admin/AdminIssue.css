@@ -1,0 +1,26 @@
+.cards{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+img{
+    width: 600;
+    height: 600;
+}
+.green, .Approved{
+    color: rgb(100, 161, 40);
+}
+.red, .Rejected{
+    color: red;
+}
+.yellow, .Pending{
+    color: yellow;
+}
+.greenback{
+    color: white;
+    background-color: green;
+}
+.redback{
+    color: white;
+    background-color: red;
+}
+
